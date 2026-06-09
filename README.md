@@ -29,7 +29,7 @@ y administra la información de los usuarios mediante una clase de JavaScript.
 3. Presiona los botones para ejecutar cada método.
 4. Abre la consola del navegador (tecla F12 → pestaña "Console") para ver las salidas detalladas.
 
-## Autor/a
+## Autora
 
 - **Leslie Figueroa**
 
