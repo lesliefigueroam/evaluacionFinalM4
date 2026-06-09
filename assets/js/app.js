@@ -13,4 +13,10 @@ class AdministradorUsuarios {
             console.log("Data cargada: ", this.usuarios);
         }
     }
+
+     listarNombres() {
+        const nombres = this.usuarios.map(u => u.name);
+        console.log("Nombres de usuarios:", nombres);
+        return nombres;
+  }
 }
